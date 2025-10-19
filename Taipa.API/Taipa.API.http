@@ -1,0 +1,6 @@
+@Taipa.API_HostAddress = http://localhost:5278
+
+GET {{Taipa.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
